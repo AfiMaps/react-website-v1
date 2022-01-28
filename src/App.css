@@ -5,10 +5,10 @@
   font-family: 'PT Sans', sans-serif;
 }
 
-.home,
-.services,
-.products,
-.sign-up {
+.INICIO,
+.CADASTRARMEMBRO,
+.SOBRE,
+.LOGIN {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -16,7 +16,7 @@
   font-size: 3rem;
 }
 
-.services {
+.CADASTRARMEMBRO {
   background-image: url('/images/img-2.jpg');
   background-position: center;
   background-size: cover;
@@ -25,7 +25,7 @@
   font-size: 100px;
 }
 
-.products {
+.SOBRE {
   background-image: url('/images/img-1.jpg');
   background-position: center;
   background-size: fill;
@@ -34,7 +34,7 @@
   font-size: 100px;
 }
 
-.sign-up {
+.LOGIN {
   background-image: url('/images/img-8.jpg');
   background-position: center;
   background-size: cover;
